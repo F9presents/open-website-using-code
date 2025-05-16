@@ -11,7 +11,8 @@ This simple batch script allows users to enter a URL directly in the command pro
 ## 🛠️ How to Use
 
 1. Download or clone this repository
-2. Run the `open-website.bat` file
-3. Enter your desired URL (e.g. `https://github.com`)
-4. The website will launch in your default browser
+2. Run the `open-website.bat` and
+3. `open-website.py` file
+4. Enter your desired URL (e.g. `https://github.com`)
+5. The website will launch in your default browser
 
